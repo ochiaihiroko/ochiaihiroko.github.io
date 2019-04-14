@@ -2,8 +2,8 @@
 日本画家・落合浩子のウェブサイト
 
 ## アップデート方法
-1. ```googleffb2e7b986f9c0bb.html```, ```README.md```,```sitemap.xml```を避難させ、porolakka/ochiai-hiroko リポジトリの dist/ フォルダ内を削除する。
-2. porolakka/ochiai-hiroko リポジトリの dist/ フォルダ内のデータをコピーする。
+1. ```googleffb2e7b986f9c0bb.html```, ```README.md```,```sitemap.xml```,```.htaccess``` を避難させ、このリポジトリ内のデータを削除する。
+2. 新たにbuildした porolakka/ochiai-hiroko リポジトリの dist/ フォルダ内のデータをコピーしてくる。
 3. 避難させていた```googleffb2e7b986f9c0bb.html```, ```README.md```,```sitemap.xml```を戻す。
 
 ## 著作物について
