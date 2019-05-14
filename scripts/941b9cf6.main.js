@@ -1,0 +1,1 @@
+var luminousTrigger=document.querySelectorAll(".luminous");null!==luminousTrigger&&new LuminousGallery(luminousTrigger);
